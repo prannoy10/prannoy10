@@ -78,9 +78,8 @@ Each project includes:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here
-- 📧 Email: your-email@example.com
-- 📄 Resume: (Add Google Drive or PDF link)
+- 💼 LinkedIn: https://www.linkedin.com/in/prannoy-saraf
+- 📧 Email: prannoysaraf@gmail.com
 
 ---
 

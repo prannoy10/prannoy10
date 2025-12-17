@@ -21,28 +21,6 @@ I’ve worked on **high-traffic production systems**, including a **32-node Kube
 
 ---
 
-## 🏢 Experience
-
-### 🔹 Senior DevOps Engineer — Vision IAS (Dec 2024 – Present)
-- Architecting and managing **production AWS infrastructure**
-- Kubernetes cluster operations & scaling
-- Database migrations using **AWS DMS (CDC)**
-- CI/CD pipelines using **GitHub Actions & ArgoCD**
-- Cost optimization, monitoring & reliability improvements
-
-### 🔹 Freelance DevOps Consultant (Jan 2023 – Aug 2024)
-- Cloud & Kubernetes consulting
-- Terraform-based infrastructure automation
-- GitOps pipelines and deployment strategies
-
-### 🔹 DevOps Engineer — Mavenir (Vodafone UK Project) (Feb 2020 – Dec 2022)
-- Delivered Vodafone UK project in **record time**
-- Managed **32-node Kubernetes cluster** handling live SMS traffic
-- Deployed **SpamShield & XA analytics platform**
-- Production upgrades, maintenance windows & incident resolution
-
----
-
 ## 🛠️ Tech Stack
 
 **Cloud:** AWS (EC2, ECS, EKS, RDS, IAM, VPC, S3, CloudWatch, Cloudfront, Cloudtrail)  
